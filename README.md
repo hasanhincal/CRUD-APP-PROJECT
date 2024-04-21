@@ -4,7 +4,7 @@ The purpose of a CRUD application is to provide a platform for a shopping list. 
 
 <h2>Technologies used in the project</h2>
 
-Codded in HTML5 , CSS3 ve JS
+Codded in HTML5 , CSS3 and JS
 
 <h2>Screen Gif</h2>
 
